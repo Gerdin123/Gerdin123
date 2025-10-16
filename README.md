@@ -1,5 +1,7 @@
 ## Hi there 👋
+[![Gerdin123's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gerdin123)](https://github.com/anuraghazra/github-readme-stats)
 
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 <!--
 **Gerdin123/Gerdin123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
