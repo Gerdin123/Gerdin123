@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Systems Architect (Software Development Focus) Student<br>Currently working on lots of different small projects
+I am a Systems Architect (Software Development Focus) Student<br>Currently working on lots of different school projects but also a test app (full-stack Angular, ASP.NET)
 
 
 # 💻 Tech Stack:
